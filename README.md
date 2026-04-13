@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">The3Eye</h1>
-  <h2 align="center">Coded by w2026498 </h2>
+  <h6 align="center">Coded by w2026498 </h6>
 </p>
 
 <div align="center">
