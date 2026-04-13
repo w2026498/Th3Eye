@@ -8,4 +8,4 @@
 </div>
   
 
- <h4 align="center">Project to monitor Wi-Fi/Bluetooth traffic, learn normal behavior, and flag attacks.</h4>
+ <h4 align="center">This project to monitor Wi-Fi/Bluetooth traffic, learn normal behavior, and flag attacks.</h4>
